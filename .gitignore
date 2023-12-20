@@ -1,6 +1,9 @@
 # VS Code Settings
 .vscode/
 
+# added - no need to git any datasets created
+Datasets/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
