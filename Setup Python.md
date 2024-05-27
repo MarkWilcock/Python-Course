@@ -13,13 +13,13 @@ Here are brief step-by-step instructions.
 1. Use the blue button at top right of the page to sign in (or create a new free Google account).  This may involve some two factor autentication message to your mobile or email.
 1. From the menu, click on File then Open Notebook. A dialog box appears.  Choose GitHub from the vertical list of the left and enter https://github.com/MarkWilcock/Python-Course into the "Enter a GitHib URL..." text box
 1. This will show a list of the Python notebooks in this course.  Select a notebook.  One good choice for getting started is 'pandas_seaborn_intro_lesson.ipynb'
-1. his should bring up a browser page with a Colab development environment that looks like this.  If you get here Congratulations!
+1. This should bring up a browser page with a Colab development environment that looks like this.  If you get here Congratulations!
 ![Colab GitHub start page](./resources/colab-start-page-intro-pandas.png)
 
 
 ## GitHub Codespaces
 
-GitHub Codespaces also offers a Python (and other) environemnt from the browser.  The Python environment uses a very nice code editor, VSCode.
+GitHub Codespaces also offers a Python (and other) environment available from the browser.  The Python environment uses a very nice code editor, VSCode.
 
 Here are brief step-by-step instructions.
 1. In a browser go to  https://github.com/features/codespaces
