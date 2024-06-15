@@ -2,7 +2,7 @@
 .vscode/
 
 # added - no need to git any datasets created
-Datasets/
+datasets/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
