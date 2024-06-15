@@ -4,6 +4,9 @@
 # added - no need to git any datasets created
 datasets/
 
+# When running in Colab some samples create xlsx files in the main folder
+*.xlsx
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
