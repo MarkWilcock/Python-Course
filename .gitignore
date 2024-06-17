@@ -4,6 +4,9 @@
 # added - no need to git any datasets created
 datasets/
 
+# don't make it too easy
+*answer*.ipynb
+
 # When running in Colab some samples create xlsx files in the main folder
 *.xlsx
 
