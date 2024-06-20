@@ -7,8 +7,12 @@ datasets/
 # don't make it too easy
 *answer*.ipynb
 
+# csv files produce by exercises
+*.csv
+
 # Test files for use in the os & shutil lesson
 test*.txt
+
 
 # When running in Colab some samples create xlsx files in the main folder
 *.xlsx
