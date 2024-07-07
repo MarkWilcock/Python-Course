@@ -5,7 +5,7 @@
 datasets/
 
 # don't make it too easy
-*answer*.ipynb
+#*answer*.ipynb
 
 # csv files produce by exercises
 *.csv
