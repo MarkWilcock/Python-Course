@@ -8,6 +8,8 @@ outputs/
 *.vtt
 *.tsv
 
+# The attendeees can work out the answers themselves
+*answer*.ipynb
 
 # VS Code Settings
 .vscode/
