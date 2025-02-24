@@ -20,6 +20,9 @@ Get a free [OpenAI API key](https://platform.openai.com/api-keys) or Google [Gem
 
 Run the quickstart example to chat with the model.
 
+* [OpenAI API Quickstart](https://platform.openai.com/docs/quickstart?language=python)
+* [Google Gemini Quickstart](https://ai.google.dev/gemini-api/docs/quickstart?lang=python)
+
 Modify the quickstart so ask the model one of the Python questions in this exercise
 
 ## Use the very popular VSCode editor with GitHub Codespaces
@@ -30,7 +33,7 @@ Copy over some code from your Colab notebooks and run these in VSCode
 
 Compare and contrast the two editors.  Which do you prefer?
 
-## .py vs .ipynb
+### .py vs .ipynb
 
 1. What is the difference between .py and .ipynb files?
 1. Show how to run code in each type
@@ -61,3 +64,9 @@ Look at the model of some models in particular
 Click on the "Use this model" button to see the Python code.  Copy this and use to get a basic result.
 
 Give a overview demo to the class.
+
+## Use an API
+
+The [Open Notify API server](http://api.open-notify.org/) has an public API to list people in space [here](http://api.open-notify.org/astros.json)
+
+Use this API to write the astronauts (first name, last name) in the ISS to a CSV or Excel file.
