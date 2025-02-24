@@ -42,7 +42,7 @@ Compare and contrast the two editors.  Which do you prefer?
 
 Python has many famous packages.  Explore some of these.
 
-For each package, wite a tiny script that shows its capabilities.
+For each package, write a tiny script that shows its capabilities.
 
 ## Python Environments
 
@@ -50,7 +50,7 @@ Explain - What is a Python environment? Why are they used?  What is pip?
 
 Show the packages listed in your environment
 
-Install a packages not already in your environment, then test that it is has been installed, imported and is working properly?
+Install a package not already in your environment e.g. cowsay. Test that it is has been installed, imported and is working properly?
 
 ## Explore Hugging Face
 
