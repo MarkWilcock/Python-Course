@@ -14,13 +14,15 @@ Writing functions [lesson](functions_lesson.ipynb), [exercise](functions_exercis
 
 [Read and write Excel files](excel_automation_starter_example.ipynb)
 
-[Data Analysis with pandas - lesson](analyse%20data%20with%20pandas/bank_churn_example.ipynb)
+[Data Analysis with pandas - lesson](data_analysis/bank_churn_example.ipynb)
 
-[Data Visualisation with seaborn - lesson](analyse%20data%20with%20pandas/pandas_seaborn_intro_lesson.ipynb)
+[Data Visualisation with seaborn - lesson](data_analysis/pandas_seaborn_intro_lesson.ipynb)
+
+[Retrieving data from SQL - demo](data_analysis/pandas_sql_connection.ipynb)
 
 API Exercises
 
 * [Lesson](api_lesson.ipynb)
 * [Police Street Crime Example](api_police_exercise.ipynb)
 * [COVID Cases example](api_covid_example.ipynb)
-* [OpenAI example](api_openai_example.ipynb)
+* [OpenAI demo](api_openai_example.ipynb)
