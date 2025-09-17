@@ -4,7 +4,7 @@ These are the lab exercise for our Python course.  For more details see [the cou
 
 ## Intermediate course - detailed agenda
 
-Consolidation of foundation content [day2_starter_exercise](day2_starter_answer.ipynb). This revises strings, lists, conditional flow, and has a final brain teaser exercise
+Consolidation of foundation content [day2_starter_exercise](day2_starter_exercise.ipynb). This revises strings, lists, conditional flow, and has a final brain teaser exercise
 
 Writing functions [lesson](functions_lesson.ipynb), [exercise](functions_exercise.ipynb) and [another exercise](functions_exercise_bmi.ipynb)
 
