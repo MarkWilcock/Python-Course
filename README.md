@@ -61,9 +61,9 @@ Functional programming [lesson](functional_lesson.ipynb) and [exercise](function
 
 The numpy package underpins many data analysis packages (including pandas), and AI packages.
 
-[lesson](data_analysis/numpy_lesson.ipynb) and [exercise](data_analysis/numpy_exercise.ipynb)
+**numpy** [lesson](data_analysis/numpy_lesson.ipynb) and [exercise](data_analysis/numpy_exercise.ipynb)
 
-Analyse data with the pandas package
+**pandas** is *the* library for data analysis in Python.  The course covers it in detail.
 
 * [lesson 1](data_analysis/pandas_lesson_01.ipynb) and [exercise 1](data_analysis/pandas_exercise_01.ipynb)
 * [lesson 2](data_analysis/pandas_lesson_02.ipynb) and [exercise 2](data_analysis/pandas_exercise_02.ipynb)
@@ -74,7 +74,7 @@ Analyse data with the pandas package
 * [league table example](data_analysis/pandas_adv_example_league_table.ipynb)
 * [COVID cases example](data_analysis/pandas_example_covid_cases.ipynb)
 
-Visualise data with the seaborn package
+Visualise data with the **seaborn** package.
 
 * [diamonds exercise](data_viz/seaborn_diamonds_exercise.ipynb)
 * [iris exercise](data_viz/seaborn_iris_exercise.ipynb)
