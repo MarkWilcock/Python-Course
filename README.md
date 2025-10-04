@@ -34,35 +34,28 @@ Writing functions [lesson](functions_lesson.ipynb), [exercise](functions_exercis
 
 ### Practical Examples
 
+[OpenAI demo](api_openai_example.ipynb) connects to ChatGPT to have a conversation
+
 [Web Scraping tutorial](web_scrape_lesson.ipynb)
 
 Read and write Excel files: a simple [starter example](excel_automation_starter_example.ipynb) and a [more complete example](practical_example_1.ipynb) that reads several tables from an Excel file into pandas DataFrames, merges the the tables, summarises the data, creates a chart then exports the summarised data in both CSV and Excel file formats
 
-[Data Analysis with pandas - tutorial](data_analysis/bank_churn_example.ipynb)
+[Introduction to data analysis with pandas - tutorial](data_analysis/bank_churn_example.ipynb)
 
 [Introduction to data visualisation with seaborn - tutorial](data_analysis/pandas_seaborn_intro_lesson.ipynb)
 
 [Retrieving data from SQL - demo](data_analysis/pandas_sql_connection.ipynb)
 
-API Exercises
+Retrieve Data from an API / web pages the requests package
 
-* [OpenAI demo](api_openai_example.ipynb)
-* [Lesson](api_lesson.ipynb)
-* [Police Street Crime Example](api_police_exercise.ipynb)
-* [COVID Cases example](api_covid_example.ipynb)
+* [Police Street Crime Example](api_police_exercise.ipynb) retrieves recent crime incidents in a local area
+* COVID Cases examples using [requests](api_covid_requests_example.ipynb) and  then the [uk_covid19 SDK](api_covid_sdk_example.ipynb)
 
 ## Advanced course - agenda
 
 Building classes (object-oriented programming) [lesson](oop_lesson.ipynb) and [exercise](oop_exercise_vaccine.ipynb)
 
 Functional programming [lesson](functional_lesson.ipynb) and [exercise](functional_exercise.ipynb)
-
-A very brief look at:
-
-* [exceptions](exceptions_lesson.ipynb),
-* [type annotations](type_annotations_lesson.ipynb),
-* reading or writing files, managing directories with the [os and shutil](os_module_lesson.ipynb) modules
-* the [re module for regex functionality](regex_lesson.ipynb)
 
 ### Data analysis with the numpy, pandas and seaborn packages
 
@@ -89,3 +82,10 @@ Visualise data with the seaborn package
 * [survey example](data_viz/viz_survey.ipynb)
 * [restaurant tips example](data_viz/viz_tips.ipynb)
 * [titanic passenger example](data_viz/viz_titanic.ipynb)
+
+If time allows, a very brief look at:
+
+* [exceptions](exceptions_lesson.ipynb),
+* [type annotations](type_annotations_lesson.ipynb),
+* reading or writing files, managing directories with the [os and shutil](os_module_lesson.ipynb) modules
+* the [re module for regex functionality](regex_lesson.ipynb)
