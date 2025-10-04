@@ -20,7 +20,7 @@ Data Structures
 
 List comprehensions  [lesson](list_comprehensions_lesson.ipynb) and [exercise](list_comprehensions_exercise.ipynb)
 
-Packages and [modules](useful_modules_lesson.ipynb) - how to install and use them
+We may need to [install a package](install_module_lesson.ipynb).
 
 Using the [requests package](api_astronauts_exercise.ipynb)
 
@@ -48,18 +48,12 @@ Read and write Excel files: a simple [starter example](excel_automation_starter_
 
 Retrieve Data from an API / web pages the requests package
 
-* [Police Street Crime Example](api_police_exercise.ipynb) retrieves recent crime incidents in a local area
+* [Police Street Crime Exercise](api_police_exercise.ipynb) retrieves recent crime incidents in a local area
 * COVID Cases examples using [requests](api_covid_requests_example.ipynb) and  then the [uk_covid19 SDK](api_covid_sdk_example.ipynb)
 
 ## Advanced course - agenda
 
-Building classes (object-oriented programming) [lesson](oop_lesson.ipynb) and [exercise](oop_exercise_vaccine.ipynb)
-
-Functional programming [lesson](functional_lesson.ipynb) and [exercise](functional_exercise.ipynb)
-
-### Data analysis with the numpy, pandas and seaborn packages
-
-The numpy package underpins many data analysis packages (including pandas), and AI packages.
+The advanced course focusses on data analysis with the numpy, pandas and seaborn packages.  The numpy package underpins many data analysis packages (including pandas), and AI packages.
 
 **numpy** [lesson](data_analysis/numpy_lesson.ipynb) and [exercise](data_analysis/numpy_exercise.ipynb)
 
@@ -82,6 +76,14 @@ Visualise data with the **seaborn** package.
 * [survey example](data_viz/viz_survey.ipynb)
 * [restaurant tips example](data_viz/viz_tips.ipynb)
 * [titanic passenger example](data_viz/viz_titanic.ipynb)
+
+### Functional and object-oriented styles of programming
+
+Functional programming [lesson](functional_lesson.ipynb) and [exercise](functional_exercise.ipynb)
+
+Building classes (object-oriented programming) [lesson](oop_lesson.ipynb) and [exercise](oop_exercise_vaccine.ipynb)
+
+### Optional sections
 
 If time allows, a very brief look at:
 
