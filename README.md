@@ -8,27 +8,28 @@ Getting started [lesson](basics_lesson.ipynb) and [exercise](basics_exercise.ipy
 
 Data types [lesson](data_types_lesson.ipynb) and [exercise](data_types_exercise.ipynb)
 
-Control flow [lesson](control_flow_lesson.ipynb) and [exercise](control_flow_exercise.ipynb)
-
 Strings (and methods, and indexing / slicing) [lesson](strings_lesson.ipynb) and [exercise](strings_exercise.ipynb)
 
 Data Structures
 
 * Lists [lesson](lists_lesson.ipynb) and [exercise](lists_exercise.ipynb)
-* Tuples [lesson](tuples_lesson.ipynb) and [exercise](tuples_exercise.ipynb)
 * Dicts [lesson](dicts_lesson.ipynb) and [exercise](dicts_exercise.ipynb)
 
-List comprehensions  [lesson](list_comprehensions_lesson.ipynb) and [exercise](list_comprehensions_exercise.ipynb)
+List comprehensions [lesson](list_comprehensions_lesson.ipynb) and [exercise](list_comprehensions_exercise.ipynb)
 
 We may need to [install a package](install_module_lesson.ipynb).
 
-Using the [requests package](api_astronauts_exercise.ipynb)
+Use the [requests package](api_astronauts_exercise.ipynb) in a practical example to retrieve data from an API.
 
 A very brief look at some common modules and packages: [datetime](datetime_lesson.ipynb); [math and statistics](math_stats_modules_lesson.ipynb)
 
 ## Intermediate course - agenda
 
-Consolidation of foundation content [day2_starter_exercise](day2_starter_exercise.ipynb). This revises strings, lists, conditional flow, and has a final brain teaser exercise
+Consolidation of foundation content [day2_starter_exercise](day2_starter_exercise.ipynb). This revises strings, lists and dicts, and has a final brain teaser exercise.
+
+Data Structures -  Tuples [lesson](tuples_lesson.ipynb) and [exercise](tuples_exercise.ipynb)
+
+Control flow [lesson](control_flow_lesson.ipynb) and [exercise](control_flow_exercise.ipynb)
 
 Writing functions [lesson](functions_lesson.ipynb), [exercise](functions_exercise.ipynb) and [another exercise](functions_exercise_bmi.ipynb)
 
