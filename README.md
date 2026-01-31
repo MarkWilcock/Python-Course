@@ -2,26 +2,77 @@
 
 This is the content of a set of Python courses.  For more details see [the course outlines](https://zomalex.co.uk/python-courses/python_course_list.html)
 
-## Foundation course - agenda
+## Foundation course - Agenda
 
-Getting started [lesson](basics_lesson.ipynb) and [exercise](basics_exercise.ipynb)
+### Bootcamp
 
-Data types [lesson](data_types_lesson.ipynb) and [exercise](data_types_exercise.ipynb)
+Getting started
 
-Strings (and methods, and indexing / slicing) [lesson](strings_lesson.ipynb) and [exercise](strings_exercise.ipynb)
+* [lesson](basics_lesson.ipynb) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+  https://colab.research.google.com/github/markwilcock/python-course/blob/main/basics_lesson.ipynb)
+* [exercise](basics_exercise.ipynb) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+  https://colab.research.google.com/github/markwilcock/python-course/blob/main/basics_exercise.ipynb)
 
-Data Structures
+Data types
 
-* Lists [lesson](lists_lesson.ipynb) and [exercise](lists_exercise.ipynb)
-* Dicts [lesson](dicts_lesson.ipynb) and [exercise](dicts_exercise.ipynb)
+* [lesson](data_types_lesson.ipynb) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+  https://colab.research.google.com/github/markwilcock/python-course/blob/main/data_types_lesson.ipynb)
+* [exercise](data_types_exercise.ipynb) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+  https://colab.research.google.com/github/markwilcock/python-course/blob/main/data_types_exercise.ipynb)
 
-List comprehensions [lesson](list_comprehensions_lesson.ipynb) and [exercise](list_comprehensions_exercise.ipynb)
+Strings (and methods, and indexing / slicing)
 
-We may need to [install a package](install_module_lesson.ipynb).
+* [lesson](strings_lesson.ipynb) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+  https://colab.research.google.com/github/markwilcock/python-course/blob/main/strings_lesson.ipynb)
+* [exercise](strings_exercise.ipynb) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+  https://colab.research.google.com/github/markwilcock/python-course/blob/main/strings_exercise.ipynb)
 
-Use the [requests package](api_astronauts_exercise.ipynb) in a practical example to retrieve data from an API.
+### Data Structures
 
-A very brief look at some common modules and packages: [datetime](datetime_lesson.ipynb); [math and statistics](math_stats_modules_lesson.ipynb)
+Lists
+
+* [lesson](lists_lesson.ipynb) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+  https://colab.research.google.com/github/markwilcock/python-course/blob/main/lists_lesson.ipynb)
+* [exercise](lists_exercise.ipynb) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+  https://colab.research.google.com/github/markwilcock/python-course/blob/main/lists_exercise.ipynb)
+
+Tuples
+
+* [lesson](tuples_lesson.ipynb) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+  https://colab.research.google.com/github/markwilcock/python-course/blob/main/tuples_lesson.ipynb)
+* [exercise](tuples_exercise.ipynb) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+  https://colab.research.google.com/github/markwilcock/python-course/blob/main/tuples_exercise.ipynb)
+
+Dicts
+
+* [lesson](dicts_lesson.ipynb) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+  https://colab.research.google.com/github/markwilcock/python-course/blob/main/dicts_lesson.ipynb)
+* [exercise](dicts_exercise.ipynb) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+  https://colab.research.google.com/github/markwilcock/python-course/blob/main/dicts_exercise.ipynb)
+
+List comprehensions
+
+* [lesson](list_comprehensions_lesson.ipynb) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+  https://colab.research.google.com/github/markwilcock/python-course/blob/main/list_comprehensions_lesson.ipynb)
+* [exercise](list_comprehensions_exercise.ipynb) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+  https://colab.research.google.com/github/markwilcock/python-course/blob/main/list_comprehensions_exercise.ipynb)
+
+### Practical examples
+
+Install a package: [exercise](install_module_lesson.ipynb) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+  https://colab.research.google.com/github/markwilcock/python-course/blob/main/install_module_lesson.ipynb)
+
+Use the request package in an [exercise](api_astronauts_exercise.ipynb) in a practical example to retrieve data from an API of the people currently in space. [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+  https://colab.research.google.com/github/markwilcock/python-course/blob/main/api_astronauts_exercise.ipynb)
+
+### Miscellaneous modules and packages
+
+A very brief look at some common modules and packages:
+
+* [datetime](datetime_lesson.ipynb) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+  https://colab.research.google.com/github/markwilcock/python-course/blob/main/datetime_lesson.ipynb)
+* [math and statistics](math_stats_modules_lesson.ipynb) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+  https://colab.research.google.com/github/markwilcock/python-course/blob/main/math_stats_modules_lesson.ipynb)
 
 ## Intermediate course - agenda
 
