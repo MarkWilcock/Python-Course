@@ -62,7 +62,7 @@ List comprehensions
 Install a package: [exercise](install_module_lesson.ipynb) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](
   https://colab.research.google.com/github/markwilcock/python-course/blob/main/install_module_lesson.ipynb)
 
-Use the request package in an [exercise](api_astronauts_exercise.ipynb) in a practical example to retrieve data from an API of the people currently in space. [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+Use the requests package in an [exercise](api_astronauts_exercise.ipynb) in a practical example to retrieve data from an API of the people currently in space. [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](
   https://colab.research.google.com/github/markwilcock/python-course/blob/main/api_astronauts_exercise.ipynb)
 
 ### Miscellaneous modules and packages
