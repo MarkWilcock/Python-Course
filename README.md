@@ -36,7 +36,7 @@ Dicts: [lesson](https://colab.research.google.com/github/markwilcock/python-cour
 
 ### Consolidation Exercise (Data Structures)
 
-Consolidation of foundation content [day2_starter_exercise](https://colab.research.google.com/github/markwilcock/python-course/blob/main/day2_starter_exercise.ipynb). This revises strings, lists and dicts, and has a final brain teaser exercise.
+[Data structures exercise](https://colab.research.google.com/github/markwilcock/python-course/blob/main/data_structures_exercise.ipynb). This revises strings, lists and dicts, and has a final brain teaser exercise.
 
 ### Writing Functions
 
@@ -53,7 +53,7 @@ A very brief look at some common modules and packages:
 
 Install a package: [exercise](https://colab.research.google.com/github/markwilcock/python-course/blob/main/install_module_lesson.ipynb)
 
-Use the requests package in an [exercise](https://colab.research.google.com/github/markwilcock/python-course/blob/main/api_astronauts_exercise.ipynb)in a practical example to retrieve data from an API of the people currently in space.
+Use the requests package in a practical example to retrieve data from an API of the people currently in space [exercise](https://colab.research.google.com/github/markwilcock/python-course/blob/main/api_astronauts_exercise.ipynb)
   
 [OpenAI demo](https://colab.research.google.com/github/markwilcock/python-course/blob/main/api_openai_example.ipynb) connects to ChatGPT to have a conversation.
 
@@ -75,9 +75,9 @@ Retrieve Data from an API / web pages the requests package
 
 [Introduction to data analysis with pandas - tutorial](https://colab.research.google.com/github/markwilcock/python-course/blob/main/data_analysis/bank_churn_example.ipynb)
 
-[Introduction to data visualisation with seaborn - tutorial](https://colab.research.google.com/github/markwilcock/python-course/blob/main/data_analysis/pandas_seaborn_intro_lesson.ipynb)
+[Introduction to data visualisation with seaborn - tutorial](https://colab.research.google.com/github/markwilcock/python-course/blob/main/https://colab.research.google.com/github/markwilcock/python-course/blob/main/data_analysis/pandas_seaborn_intro_lesson.ipynb)
 
-[Retrieving data from SQL - demo](https://colab.research.google.com/github/markwilcock/python-course/blob/main/data_analysis/pandas_sql_connection.ipynb)
+[Retrieving data from SQL - demo](https://colab.research.google.com/github/markwilcock/python-course/blob/main/https://colab.research.google.com/github/markwilcock/python-course/blob/main/data_analysis/pandas_sql_connection.ipynb)
 
 ### Functional and object-oriented styles of programming
 
@@ -98,25 +98,24 @@ If time allows, a very brief look at:
 
 The Data Analysis With Python course focusses on data analysis with the numpy, pandas and seaborn packages.  The numpy package underpins many data analysis packages (including pandas), and AI packages.
 
-**numpy** [lesson](data_analysis/numpy_lesson.ipynb) and [exercise](data_analysis/numpy_exercise.ipynb)
+**numpy** [lesson](https://colab.research.google.com/github/markwilcock/python-course/blob/main/data_analysis/numpy_lesson.ipynb) and [exercise](https://colab.research.google.com/github/markwilcock/python-course/blob/main/data_analysis/numpy_exercise.ipynb)
 
 **pandas** is *the* library for data analysis in Python.  The course covers it in detail.
 
-* [lesson 1](data_analysis/pandas_lesson_01.ipynb) and [exercise 1](data_analysis/pandas_exercise_01.ipynb)
-* [lesson 2](data_analysis/pandas_lesson_02.ipynb) and [exercise 2](data_analysis/pandas_exercise_02.ipynb)
-* [lesson 3](data_analysis/pandas_lesson_03.ipynb) and [exercise 3](data_analysis/pandas_exercise_03.ipynb)
-* [lesson 4](data_analysis/pandas_lesson_04.ipynb) and [exercise 4](data_analysis/pandas_exercise_04.ipynb)
-* titanic [exercise](data_analysis/pandas_titanic_exercise.ipynb)
-* [fx rates example](data_analysis/pandas_timeseries_example_fx_rates.ipynb) (time-series data)
-* [league table example](data_analysis/pandas_adv_example_league_table.ipynb)
-* [COVID cases example](data_analysis/pandas_example_covid_cases.ipynb)
+* [lesson 1](https://colab.research.google.com/github/markwilcock/python-course/blob/main/data_analysis/pandas_lesson_01.ipynb) and [exercise 1](https://colab.research.google.com/github/markwilcock/python-course/blob/main/data_analysis/pandas_exercise_01.ipynb)
+* [lesson 2](https://colab.research.google.com/github/markwilcock/python-course/blob/main/data_analysis/pandas_lesson_02.ipynb) and [exercise 2](https://colab.research.google.com/github/markwilcock/python-course/blob/main/data_analysis/pandas_exercise_02.ipynb)
+* [lesson 3](https://colab.research.google.com/github/markwilcock/python-course/blob/main/data_analysis/pandas_lesson_03.ipynb) and [exercise 3](https://colab.research.google.com/github/markwilcock/python-course/blob/main/data_analysis/pandas_exercise_03.ipynb)
+* [lesson 4](https://colab.research.google.com/github/markwilcock/python-course/blob/main/data_analysis/pandas_lesson_04.ipynb) and [exercise 4](https://colab.research.google.com/github/markwilcock/python-course/blob/main/data_analysis/pandas_exercise_04.ipynb)
+* titanic [exercise](https://colab.research.google.com/github/markwilcock/python-course/blob/main/data_analysis/pandas_titanic_exercise.ipynb)
+* [fx rates example](https://colab.research.google.com/github/markwilcock/python-course/blob/main/data_analysis/pandas_timeseries_example_fx_rates.ipynb) (time-series data)
+* [league table example](https://colab.research.google.com/github/markwilcock/python-course/blob/main/data_analysis/pandas_adv_example_league_table.ipynb)
+* [COVID cases example](https://colab.research.google.com/github/markwilcock/python-course/blob/main/data_analysis/pandas_example_covid_cases.ipynb)
 
 Visualise data with the **seaborn** package.
 
-* [diamonds exercise](data_viz/seaborn_diamonds_exercise.ipynb)
-* [iris exercise](data_viz/seaborn_iris_exercise.ipynb)
-* [MPG example](data_viz/viz_mpg.ipynb)
-* [survey example](data_viz/viz_survey.ipynb)
-* [restaurant tips example](data_viz/viz_tips.ipynb)
-* [titanic passenger example](data_viz/viz_titanic.ipynb)
-
+* [diamonds exercise](https://colab.research.google.com/github/markwilcock/python-course/blob/main/data_viz/seaborn_diamonds_exercise.ipynb)
+* [iris exercise](https://colab.research.google.com/github/markwilcock/python-course/blob/main/data_viz/seaborn_iris_exercise.ipynb)
+* [MPG example](https://colab.research.google.com/github/markwilcock/python-course/blob/main/data_viz/viz_mpg.ipynb)
+* [survey example](https://colab.research.google.com/github/markwilcock/python-course/blob/main/data_viz/viz_survey.ipynb)
+* [restaurant tips example](https://colab.research.google.com/github/markwilcock/python-course/blob/main/data_viz/viz_tips.ipynb)
+* [titanic passenger example](https://colab.research.google.com/github/markwilcock/python-course/blob/main/data_viz/viz_titanic.ipynb)
