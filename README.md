@@ -1,111 +1,96 @@
 # Python Course README
 
-This is the content of a set of Python courses.  For more details see [the course outlines](https://zomalex.co.uk/python-courses/python_course_list.html)
+This is the content of a set of Python courses.  For more details see [the course outlines](https://zomalex.co.uk/python-courses/python_course_list.html).  All the links open the Python code in Google Colab, so you can run the code and edit it to experiment with it.  The course content is organised into three sections: Foundation, Intermediate and Advanced.  Each section has a set of lessons and exercises, and some practical examples.
 
 ## Foundation course - Agenda
 
 ### Bootcamp
 
-Getting started
+Getting started: [lesson](https://colab.research.google.com/github/markwilcock/python-course/blob/main/basics_lesson.ipynb) and [exercise](https://colab.research.google.com/github/markwilcock/python-course/blob/main/basics_exercise.ipynb)
+  
+Data types: [lesson](https://colab.research.google.com/github/markwilcock/python-course/blob/main/data_types_lesson.ipynb) and [exercise](https://colab.research.google.com/github/markwilcock/python-course/blob/main/data_types_exercise.ipynb)
 
-* [lesson](basics_lesson.ipynb) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](
-  https://colab.research.google.com/github/markwilcock/python-course/blob/main/basics_lesson.ipynb)
-* [exercise](basics_exercise.ipynb) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](
-  https://colab.research.google.com/github/markwilcock/python-course/blob/main/basics_exercise.ipynb)
+Strings (and methods, and indexing / slicing): [lesson](https://colab.research.google.com/github/markwilcock/python-course/blob/main/strings_lesson.ipynb) and [exercise](https://colab.research.google.com/github/markwilcock/python-course/blob/main/strings_exercise.ipynb)
 
-Data types
+### Data Structures 1
 
-* [lesson](data_types_lesson.ipynb) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](
-  https://colab.research.google.com/github/markwilcock/python-course/blob/main/data_types_lesson.ipynb)
-* [exercise](data_types_exercise.ipynb) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](
-  https://colab.research.google.com/github/markwilcock/python-course/blob/main/data_types_exercise.ipynb)
+Lists: [lesson](https://colab.research.google.com/github/markwilcock/python-course/blob/main/lists_lesson.ipynb) and [exercise](https://colab.research.google.com/github/markwilcock/python-course/blob/main/lists_exercise.ipynb)
 
-Strings (and methods, and indexing / slicing)
+## Intermediate course - agenda
 
-* [lesson](strings_lesson.ipynb) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](
-  https://colab.research.google.com/github/markwilcock/python-course/blob/main/strings_lesson.ipynb)
-* [exercise](strings_exercise.ipynb) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](
-  https://colab.research.google.com/github/markwilcock/python-course/blob/main/strings_exercise.ipynb)
+Consolidation of foundation content [day2_starter_exercise](https://colab.research.google.com/github/markwilcock/python-course/blob/main/day2_starter_exercise.ipynb). This revises strings, lists and dicts, and has a final brain teaser exercise.
 
-### Data Structures
+### Control Flow
 
-Lists
+Control flow: [lesson](https://colab.research.google.com/github/markwilcock/python-course/blob/main/control_flow_lesson.ipynb) and [exercise](https://colab.research.google.com/github/markwilcock/python-course/blob/main/control_flow_exercise.ipynb)
 
-* [lesson](lists_lesson.ipynb) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](
-  https://colab.research.google.com/github/markwilcock/python-course/blob/main/lists_lesson.ipynb)
-* [exercise](lists_exercise.ipynb) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](
-  https://colab.research.google.com/github/markwilcock/python-course/blob/main/lists_exercise.ipynb)
+## Data Structure 2
 
-Tuples
+List comprehensions: [lesson](https://colab.research.google.com/github/markwilcock/python-course/blob/main/list_comprehensions_lesson.ipynb) and [exercise](https://colab.research.google.com/github/markwilcock/python-course/blob/main/list_comprehensions_exercise.ipynb)
 
-* [lesson](tuples_lesson.ipynb) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](
-  https://colab.research.google.com/github/markwilcock/python-course/blob/main/tuples_lesson.ipynb)
-* [exercise](tuples_exercise.ipynb) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](
-  https://colab.research.google.com/github/markwilcock/python-course/blob/main/tuples_exercise.ipynb)
+Tuples: [lesson](https://colab.research.google.com/github/markwilcock/python-course/blob/main/tuples_lesson.ipynb) and [exercise](https://colab.research.google.com/github/markwilcock/python-course/blob/main/tuples_exercise.ipynb)
 
-Dicts
+Dicts: [lesson](https://colab.research.google.com/github/markwilcock/python-course/blob/main/dicts_lesson.ipynb) and [exercise](https://colab.research.google.com/github/markwilcock/python-course/blob/main/dicts_exercise.ipynb)
 
-* [lesson](dicts_lesson.ipynb) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](
-  https://colab.research.google.com/github/markwilcock/python-course/blob/main/dicts_lesson.ipynb)
-* [exercise](dicts_exercise.ipynb) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](
-  https://colab.research.google.com/github/markwilcock/python-course/blob/main/dicts_exercise.ipynb)
+### Writing Functions
 
-List comprehensions
-
-* [lesson](list_comprehensions_lesson.ipynb) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](
-  https://colab.research.google.com/github/markwilcock/python-course/blob/main/list_comprehensions_lesson.ipynb)
-* [exercise](list_comprehensions_exercise.ipynb) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](
-  https://colab.research.google.com/github/markwilcock/python-course/blob/main/list_comprehensions_exercise.ipynb)
+Writing functions: [lesson](https://colab.research.google.com/github/markwilcock/python-course/blob/main/functions_lesson.ipynb) and [exercise](https://colab.research.google.com/github/markwilcock/python-course/blob/main/functions_exercise.ipynb) and [another exercise](https://colab.research.google.com/github/markwilcock/python-course/blob/main/functions_exercise_bmi.ipynb)
 
 ### Practical examples
 
-Install a package: [exercise](install_module_lesson.ipynb) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](
-  https://colab.research.google.com/github/markwilcock/python-course/blob/main/install_module_lesson.ipynb)
+Install a package: [exercise](https://colab.research.google.com/github/markwilcock/python-course/blob/main/install_module_lesson.ipynb)
 
-Use the requests package in an [exercise](api_astronauts_exercise.ipynb) in a practical example to retrieve data from an API of the people currently in space. [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](
-  https://colab.research.google.com/github/markwilcock/python-course/blob/main/api_astronauts_exercise.ipynb)
-
+Use the requests package in an [exercise](https://colab.research.google.com/github/markwilcock/python-course/blob/main/api_astronauts_exercise.ipynb)in a practical example to retrieve data from an API of the people currently in space.
+  
 ### Miscellaneous modules and packages
 
 A very brief look at some common modules and packages:
 
-* [datetime](datetime_lesson.ipynb) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](
-  https://colab.research.google.com/github/markwilcock/python-course/blob/main/datetime_lesson.ipynb)
-* [math and statistics](math_stats_modules_lesson.ipynb) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](
-  https://colab.research.google.com/github/markwilcock/python-course/blob/main/math_stats_modules_lesson.ipynb)
-
-## Intermediate course - agenda
-
-Consolidation of foundation content [day2_starter_exercise](day2_starter_exercise.ipynb). This revises strings, lists and dicts, and has a final brain teaser exercise.
-
-Data Structures -  Tuples [lesson](tuples_lesson.ipynb) and [exercise](tuples_exercise.ipynb)
-
-Control flow [lesson](control_flow_lesson.ipynb) and [exercise](control_flow_exercise.ipynb)
-
-Writing functions [lesson](functions_lesson.ipynb), [exercise](functions_exercise.ipynb) and [another exercise](functions_exercise_bmi.ipynb)
+* [datetime](https://colab.research.google.com/github/markwilcock/python-course/blob/main/datetime_lesson.ipynb)
+* [math and statistics](https://colab.research.google.com/github/markwilcock/python-course/blob/main/math_stats_modules_lesson.ipynb)
 
 ### Practical Examples
 
-[OpenAI demo](api_openai_example.ipynb) connects to ChatGPT to have a conversation
+[OpenAI demo](https://colab.research.google.com/github/markwilcock/python-course/blob/main/api_openai_example.ipynb) connects to ChatGPT to have a conversation.
 
-[Web Scraping tutorial](web_scrape_lesson.ipynb)
+[Web Scraping tutorial](https://colab.research.google.com/github/markwilcock/python-course/blob/main/web_scrape_lesson.ipynb)
 
-Read and write Excel files: a simple [starter example](excel_automation_starter_example.ipynb) and a [more complete example](practical_example_1.ipynb) that reads several tables from an Excel file into pandas DataFrames, merges the the tables, summarises the data, creates a chart then exports the summarised data in both CSV and Excel file formats
+## Advanced Course - agenda
 
-[Introduction to data analysis with pandas - tutorial](data_analysis/bank_churn_example.ipynb)
+Read and write Excel files:
 
-[Introduction to data visualisation with seaborn - tutorial](data_analysis/pandas_seaborn_intro_lesson.ipynb)
+* a simple [starter example](https://colab.research.google.com/github/markwilcock/python-course/blob/main/excel_automation_starter_example.ipynb)
+* a [more complete example](https://colab.research.google.com/github/markwilcock/python-course/blob/main/practical_example_1.ipynb) that reads several tables from an Excel file into pandas DataFrames, merges the the tables, summarises the data, creates a chart then exports the summarised data in both CSV and Excel file formats.
 
-[Retrieving data from SQL - demo](data_analysis/pandas_sql_connection.ipynb)
+[Introduction to data analysis with pandas - tutorial](https://colab.research.google.com/github/markwilcock/python-course/blob/main/data_analysis/bank_churn_example.ipynb)
+
+[Introduction to data visualisation with seaborn - tutorial](https://colab.research.google.com/github/markwilcock/python-course/blob/main/data_analysis/pandas_seaborn_intro_lesson.ipynb)
+
+[Retrieving data from SQL - demo](https://colab.research.google.com/github/markwilcock/python-course/blob/main/data_analysis/pandas_sql_connection.ipynb)
 
 Retrieve Data from an API / web pages the requests package
 
-* [Police Street Crime Exercise](api_police_exercise.ipynb) retrieves recent crime incidents in a local area
-* COVID Cases examples using [requests](api_covid_requests_example.ipynb) and  then the [uk_covid19 SDK](api_covid_sdk_example.ipynb)
+* [Police Street Crime Exercise](https://colab.research.google.com/github/markwilcock/python-course/blob/main/api_police_exercise.ipynb) retrieves recent crime incidents in a local area
+* COVID Cases examples using [requests](https://colab.research.google.com/github/markwilcock/python-course/blob/main/api_covid_requests_example.ipynb) and  then the [uk_covid19 SDK](api_covid_sdk_example.ipynb)
 
-## Advanced course - agenda
+### Functional and object-oriented styles of programming
 
-The advanced course focusses on data analysis with the numpy, pandas and seaborn packages.  The numpy package underpins many data analysis packages (including pandas), and AI packages.
+Functional programming [lesson](functional_lesson.ipynb) and [exercise](functional_exercise.ipynb)
+
+Building classes (object-oriented programming) [lesson](oop_lesson.ipynb) and [exercise](oop_exercise_vaccine.ipynb)
+
+### Optional sections
+
+If time allows, a very brief look at:
+
+* [exceptions](exceptions_lesson.ipynb),
+* [type annotations](type_annotations_lesson.ipynb),
+* reading or writing files, managing directories with the [os and shutil](os_module_lesson.ipynb) modules
+* the [re module for regex functionality](regex_lesson.ipynb)
+
+## Data Analysis With Python - agenda
+
+The Data Analysis With Python course focusses on data analysis with the numpy, pandas and seaborn packages.  The numpy package underpins many data analysis packages (including pandas), and AI packages.
 
 **numpy** [lesson](data_analysis/numpy_lesson.ipynb) and [exercise](data_analysis/numpy_exercise.ipynb)
 
@@ -129,17 +114,3 @@ Visualise data with the **seaborn** package.
 * [restaurant tips example](data_viz/viz_tips.ipynb)
 * [titanic passenger example](data_viz/viz_titanic.ipynb)
 
-### Functional and object-oriented styles of programming
-
-Functional programming [lesson](functional_lesson.ipynb) and [exercise](functional_exercise.ipynb)
-
-Building classes (object-oriented programming) [lesson](oop_lesson.ipynb) and [exercise](oop_exercise_vaccine.ipynb)
-
-### Optional sections
-
-If time allows, a very brief look at:
-
-* [exceptions](exceptions_lesson.ipynb),
-* [type annotations](type_annotations_lesson.ipynb),
-* reading or writing files, managing directories with the [os and shutil](os_module_lesson.ipynb) modules
-* the [re module for regex functionality](regex_lesson.ipynb)
