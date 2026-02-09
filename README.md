@@ -69,7 +69,7 @@ Read and write Excel files
 Retrieve Data from an API / web pages the requests package
 
 * [Police Street Crime Exercise](https://colab.research.google.com/github/markwilcock/python-course/blob/main/api_police_exercise.ipynb) retrieves recent crime incidents in a local area
-* COVID Cases examples using [requests](https://colab.research.google.com/github/markwilcock/python-course/blob/main/api_covid_requests_example.ipynb) and  then the [uk_covid19 SDK](api_covid_sdk_example.ipynb)
+* COVID Cases examples using [requests](https://colab.research.google.com/github/markwilcock/python-course/blob/main/api_covid_requests_example.ipynb) and  then the [uk_covid19 SDK](https://colab.research.google.com/github/markwilcock/python-course/blob/main/api_covid_sdk_example.ipynb)
 
 ### Introduction to data analysis and visualisation
 
