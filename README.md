@@ -28,11 +28,11 @@ Control flow: [lesson](https://colab.research.google.com/github/markwilcock/pyth
 
 ### Data Structures 2
 
-List comprehensions: [lesson](https://colab.research.google.com/github/markwilcock/python-course/blob/main/list_comprehensions_lesson.ipynb) and [exercise](https://colab.research.google.com/github/markwilcock/python-course/blob/main/list_comprehensions_exercise.ipynb)
-
 Tuples: [lesson](https://colab.research.google.com/github/markwilcock/python-course/blob/main/tuples_lesson.ipynb) and [exercise](https://colab.research.google.com/github/markwilcock/python-course/blob/main/tuples_exercise.ipynb)
 
 Dicts: [lesson](https://colab.research.google.com/github/markwilcock/python-course/blob/main/dicts_lesson.ipynb) and [exercise](https://colab.research.google.com/github/markwilcock/python-course/blob/main/dicts_exercise.ipynb)
+
+List comprehensions: [lesson](https://colab.research.google.com/github/markwilcock/python-course/blob/main/list_comprehensions_lesson.ipynb) and [exercise](https://colab.research.google.com/github/markwilcock/python-course/blob/main/list_comprehensions_exercise.ipynb)
 
 ### Consolidation Exercise (Data Structures)
 
@@ -53,13 +53,11 @@ A very brief look at some common modules and packages:
 
 Install a package: [exercise](https://colab.research.google.com/github/markwilcock/python-course/blob/main/install_module_lesson.ipynb)
 
-Use the requests package in a practical example to retrieve data from an API of the people currently in space [exercise](https://colab.research.google.com/github/markwilcock/python-course/blob/main/api_astronauts_exercise.ipynb)
-  
 [OpenAI demo](https://colab.research.google.com/github/markwilcock/python-course/blob/main/api_openai_example.ipynb) connects to ChatGPT to have a conversation.
 
-[Web Scraping tutorial](https://colab.research.google.com/github/markwilcock/python-course/blob/main/web_scrape_lesson.ipynb)
-
 ## Advanced Course
+
+### Practical Applications
 
 Read and write Excel files
 
@@ -71,17 +69,15 @@ Retrieve Data from an API / web pages the requests package
 * [Police Street Crime Exercise](https://colab.research.google.com/github/markwilcock/python-course/blob/main/api_police_exercise.ipynb) retrieves recent crime incidents in a local area
 * COVID Cases examples using [requests](https://colab.research.google.com/github/markwilcock/python-course/blob/main/api_covid_requests_example.ipynb) and  then the [uk_covid19 SDK](https://colab.research.google.com/github/markwilcock/python-course/blob/main/api_covid_sdk_example.ipynb)
 
-### Introduction to data analysis and visualisation
+Use the requests package in a practical example to retrieve data from an API of the people currently in space [exercise](https://colab.research.google.com/github/markwilcock/python-course/blob/main/api_astronauts_exercise.ipynb)
+  
+[Web Scraping tutorial](https://colab.research.google.com/github/markwilcock/python-course/blob/main/web_scrape_lesson.ipynb)
 
-[Introduction to data analysis with pandas - tutorial](https://colab.research.google.com/github/markwilcock/python-course/blob/main/data_analysis/bank_churn_example.ipynb)
-
-[Introduction to data visualisation with seaborn - tutorial](https://colab.research.google.com/github/markwilcock/python-course/blob/main/https://colab.research.google.com/github/markwilcock/python-course/blob/main/data_analysis/pandas_seaborn_intro_lesson.ipynb)
-
-[Retrieving data from SQL - demo](https://colab.research.google.com/github/markwilcock/python-course/blob/main/https://colab.research.google.com/github/markwilcock/python-course/blob/main/data_analysis/pandas_sql_connection.ipynb)
-
-### Functional and object-oriented styles of programming
+### Functional programming
 
 Functional programming [lesson](https://colab.research.google.com/github/markwilcock/python-course/blob/main/functional_lesson.ipynb) and [exercise](https://colab.research.google.com/github/markwilcock/python-course/blob/main/functional_exercise.ipynb)
+
+### Object-oriented programming
 
 Building classes (object-oriented programming) [lesson](https://colab.research.google.com/github/markwilcock/python-course/blob/main/oop_lesson.ipynb) and [exercise](https://colab.research.google.com/github/markwilcock/python-course/blob/main/oop_exercise_vaccine.ipynb)
 
@@ -98,9 +94,23 @@ If time allows, a very brief look at:
 
 The Data Analysis With Python course focusses on data analysis with the numpy, pandas and seaborn packages.  The numpy package underpins many data analysis packages (including pandas), and AI packages.
 
-**numpy** [lesson](https://colab.research.google.com/github/markwilcock/python-course/blob/main/data_analysis/numpy_lesson.ipynb) and [exercise](https://colab.research.google.com/github/markwilcock/python-course/blob/main/data_analysis/numpy_exercise.ipynb)
+### Introduction to data analysis and visualisation
 
-**pandas** is *the* library for data analysis in Python.  The course covers it in detail.
+[Introduction to data analysis with pandas - tutorial](https://colab.research.google.com/github/markwilcock/python-course/blob/main/data_analysis/bank_churn_example.ipynb)
+
+[Introduction to data visualisation with seaborn - tutorial](https://colab.research.google.com/github/markwilcock/python-course/blob/main/https://colab.research.google.com/github/markwilcock/python-course/blob/main/data_analysis/pandas_seaborn_intro_lesson.ipynb)
+
+[Retrieving data from SQL - demo](https://colab.research.google.com/github/markwilcock/python-course/blob/main/https://colab.research.google.com/github/markwilcock/python-course/blob/main/data_analysis/pandas_sql_connection.ipynb)
+
+### numpy package
+
+numpy is the foundation of data analysis in Python, and is used for working with arrays and matrices of data.
+
+[lesson](https://colab.research.google.com/github/markwilcock/python-course/blob/main/data_analysis/numpy_lesson.ipynb) and [exercise](https://colab.research.google.com/github/markwilcock/python-course/blob/main/data_analysis/numpy_exercise.ipynb)
+
+### pandas
+
+pandas is *the* library for data analysis in Python.
 
 * [lesson 1](https://colab.research.google.com/github/markwilcock/python-course/blob/main/data_analysis/pandas_lesson_01.ipynb) and [exercise 1](https://colab.research.google.com/github/markwilcock/python-course/blob/main/data_analysis/pandas_exercise_01.ipynb)
 * [lesson 2](https://colab.research.google.com/github/markwilcock/python-course/blob/main/data_analysis/pandas_lesson_02.ipynb) and [exercise 2](https://colab.research.google.com/github/markwilcock/python-course/blob/main/data_analysis/pandas_exercise_02.ipynb)
@@ -111,7 +121,9 @@ The Data Analysis With Python course focusses on data analysis with the numpy, p
 * [league table example](https://colab.research.google.com/github/markwilcock/python-course/blob/main/data_analysis/pandas_adv_example_league_table.ipynb)
 * [COVID cases example](https://colab.research.google.com/github/markwilcock/python-course/blob/main/data_analysis/pandas_example_covid_cases.ipynb)
 
-Visualise data with the **seaborn** package.
+### seaborn
+
+Visualise data with the seaborn package.
 
 * [diamonds exercise](https://colab.research.google.com/github/markwilcock/python-course/blob/main/data_viz/seaborn_diamonds_exercise.ipynb)
 * [iris exercise](https://colab.research.google.com/github/markwilcock/python-course/blob/main/data_viz/seaborn_iris_exercise.ipynb)
