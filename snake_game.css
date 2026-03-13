@@ -1,0 +1,150 @@
+:root {
+  color-scheme: dark;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  --bg: #0f1116;
+  --card: #171b24;
+  --accent: #51d06c;
+  --accent-dark: #3aa653;
+  --grid: #1f2430;
+  --snake: #8cf5a9;
+  --food: #ff6666;
+  --text: #f5f7fa;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  background: radial-gradient(circle at top, #202632, var(--bg));
+  color: var(--text);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 1.5rem;
+}
+
+.layout {
+  width: min(720px, 100%);
+}
+
+.game-card {
+  background: var(--card);
+  border-radius: 18px;
+  box-shadow: 0 20px 40px rgba(0, 0, 0, 0.45);
+  padding: 2rem;
+  display: grid;
+  gap: 1.5rem;
+}
+
+.game-header h1 {
+  margin: 0 0 0.25rem;
+  font-size: clamp(1.6rem, 2vw + 1rem, 2.4rem);
+}
+
+.description {
+  margin: 0;
+  line-height: 1.5;
+  color: rgba(245, 247, 250, 0.78);
+}
+
+.scoreboard {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: rgba(31, 36, 48, 0.9);
+  border-radius: 12px;
+  padding: 0.75rem 1rem;
+  font-weight: 600;
+  letter-spacing: 0.03em;
+}
+
+.score span {
+  font-variant-numeric: tabular-nums;
+  font-weight: 700;
+}
+
+canvas {
+  width: 100%;
+  max-width: 480px;
+  justify-self: center;
+  background: repeating-linear-gradient(
+      0deg,
+      rgba(255, 255, 255, 0.025),
+      rgba(255, 255, 255, 0.025) 24px,
+      rgba(15, 17, 22, 0.1) 24px,
+      rgba(15, 17, 22, 0.1) 48px
+    ),
+    repeating-linear-gradient(
+      90deg,
+      rgba(255, 255, 255, 0.025),
+      rgba(255, 255, 255, 0.025) 24px,
+      rgba(15, 17, 22, 0.1) 24px,
+      rgba(15, 17, 22, 0.1) 48px
+    ),
+    var(--grid);
+  border-radius: 12px;
+  border: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+.controls {
+  display: flex;
+  gap: 0.75rem;
+  justify-content: center;
+}
+
+button {
+  border: none;
+  border-radius: 999px;
+  padding: 0.6rem 1.6rem;
+  font-size: 1rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+  background: rgba(255, 255, 255, 0.08);
+  color: var(--text);
+}
+
+button.primary {
+  background: linear-gradient(135deg, var(--accent), var(--accent-dark));
+  color: #0c150f;
+  box-shadow: 0 12px 20px rgba(81, 208, 108, 0.35);
+}
+
+button:hover,
+button:focus-visible {
+  transform: translateY(-2px);
+  box-shadow: 0 14px 22px rgba(0, 0, 0, 0.2);
+  outline: none;
+}
+
+button:disabled {
+  cursor: not-allowed;
+  opacity: 0.55;
+  transform: none;
+  box-shadow: none;
+}
+
+.message {
+  min-height: 1.5rem;
+  text-align: center;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+}
+
+@media (max-width: 640px) {
+  body {
+    padding: 1rem;
+  }
+
+  .game-card {
+    padding: 1.5rem;
+    gap: 1rem;
+  }
+
+  .scoreboard {
+    font-size: 0.95rem;
+  }
+}
