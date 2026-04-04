@@ -1,0 +1,12 @@
+To do
+*****
+
+data_analysis folder
+--------------------
+
+create pandas_lesson_05 on merge join
+pandas_exercise 04 (join) -> pandas exercise 05
+Pandas_exercise 03 (missing data ) -> pandas exercise 04 
+create new pandas_exercise_03 on group by /aggregate
+
+
