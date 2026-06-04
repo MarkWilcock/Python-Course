@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(jupyter --paths)",
+      "Read(//c/Users/zomalex-mark/AppData/Roaming/jupyter/**)",
+      "Bash(Get-ChildItem \"C:\\\\Users\\\\zomalex-mark\\\\AppData\\\\Roaming\\\\jupyter\\\\kernels\" -Recurse)",
+      "PowerShell(Get-ChildItem \"$env:APPDATA\\\\jupyter\\\\kernels\" -Recurse -ErrorAction SilentlyContinue | Select-Object FullName)",
+      "PowerShell(Get-ChildItem \"$env:LOCALAPPDATA\\\\jupyter\\\\kernels\" -Recurse -ErrorAction SilentlyContinue | Select-Object FullName)",
+      "PowerShell(python --version)",
+      "PowerShell(code --install-extension ms-toolsai.jupyter 2>&1)"
+    ]
+  }
+}
