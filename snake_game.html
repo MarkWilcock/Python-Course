@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Snake</title>
+    <link rel="stylesheet" href="snake_game.css" />
+  </head>
+  <body>
+    <main class="layout">
+      <section class="game-card" aria-labelledby="game-title">
+        <header class="game-header">
+          <h1 id="game-title">Snake</h1>
+          <p class="description">
+            Use the arrow keys (or WASD) to guide the snake. Eat the glowing fruit to grow
+            longer. Avoid the walls and your own tail. Press the space bar to pause or restart
+            after a collision.
+          </p>
+        </header>
+        <div class="scoreboard" role="status" aria-live="polite">
+          <div class="score" id="score-label">Score: <span id="score-value">0</span></div>
+          <div class="score" id="best-label">Best: <span id="best-value">0</span></div>
+        </div>
+        <canvas
+          id="game-canvas"
+          width="480"
+          height="480"
+          role="application"
+          aria-describedby="game-title"
+        ></canvas>
+        <div class="controls">
+          <button id="start-button" type="button" class="primary">Start game</button>
+          <button id="pause-button" type="button">Pause</button>
+        </div>
+        <p id="message" class="message" role="alert" aria-live="assertive"></p>
+      </section>
+    </main>
+    <script src="snake_game.js"></script>
+  </body>
+</html>
