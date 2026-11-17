@@ -18,7 +18,7 @@ Lists: [lesson](https://colab.research.google.com/github/markwilcock/python-cour
 
 ### Consolidation Exercise (Attendees)
 
-The [attendee exercise](https://colab.research.google.com/github/markwilcock/python-course/blob/main/attendee_exercise.ipynb) is a consolidation exercise that revises strings, lists and dicts.  It is based on a real-life problem of extracting first names from a list of email addresses.
+The [attendee exercise](https://colab.research.google.com/github/markwilcock/python-course/blob/main/attendee_exercise.ipynb) is a consolidation exercise that revises strings and their methods, indexing and lists.  It is based on a real-life problem of extracting first names from a list of email addresses.
 
 ## Intermediate Course
 
