@@ -23,6 +23,8 @@ astros.csv
 # Test files for use in the os & shutil lesson
 test*.txt
 
+# Sample provided by course attendee
+test.py
 
 # When running in Colab some samples create xlsx files in the main folder
 # *.xlsx
